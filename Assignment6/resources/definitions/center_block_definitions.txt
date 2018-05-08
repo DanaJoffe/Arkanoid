@@ -1,0 +1,8 @@
+# default values for blocks
+default height:25 width:50 stroke:color(black)
+
+# block definitions
+bdef symbol:d hit_points:3 fill-1:image(block_images/spider1.jpg) fill-3:color(RGB(90,73,66)) fill-2:image(block_images/spider2.jpg)
+
+# spacers definitions
+sdef symbol:- width:25

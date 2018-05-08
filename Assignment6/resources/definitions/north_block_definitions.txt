@@ -1,0 +1,10 @@
+# default values for blocks
+default height:50 width:100 stroke:color(black)
+
+# block definitions
+bdef symbol:c hit_points:3 fill:image(block_images/butterfly.jpg) fill-2:image(block_images/cacoon.jpg) fill-3:image(block_images/larva.jpg)
+
+# spacers definitions
+sdef symbol:- width:20
+sdef symbol:~ width:25
+sdef symbol:> width:85

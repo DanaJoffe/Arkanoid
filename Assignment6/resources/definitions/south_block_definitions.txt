@@ -1,0 +1,10 @@
+# default values for blocks
+default height:50 width:100 stroke:color(black)
+
+# block definitions
+bdef symbol:l hit_points:2 fill:image(block_images/kid.jpg) fill-2:image(block_images/grasshopper.jpg)
+bdef symbol:g hit_points:2 fill:image(block_images/kid.jpg) fill-2:image(block_images/lizard.jpg)
+
+# spacers definitions
+sdef symbol:- width:20
+sdef symbol:~ width:25

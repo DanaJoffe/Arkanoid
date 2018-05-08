@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Assignment6:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Assignment6_jar</output-path>
+    <root id="archive" name="Assignment6.jar">
+      <element id="module-output" name="Assignment6" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/biuoop-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/checkstyle-5.7-all.jar" path-in-jar="/" />
+      <element id="library" level="project" name="resources" />
+    </root>
+  </artifact>
+</component>
